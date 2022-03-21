@@ -1,2 +1,8 @@
 # Ignore VSCODE configuration
 .vscode/
+
+# Ignore output files
+*.out
+
+# Ignore testsample files
+*.mtx
